@@ -7,6 +7,23 @@ I enjoy crafting fun and useful web applications, often infused with a bit of cr
 I'm always willing to learn and experimenting with code like it’s a magic potion, and embracing every opportunity to grow. Designing user-friendly interfaces that spark joy is not just a skill — it’s something I truly love doing. 💻✨
 
 
+<div align="center">
+
+## 👩‍💻 About Me 🌸
+
+🌷 Hi, I'm **Jieya!**  
+A curious software developer, UI enthusiast, and a builder of community-driven digital projects.
+
+💡 I enjoy crafting fun and useful web applications — often infused with creativity and flair.  
+🚀 My passion for technology drives me to explore smarter solutions and transform complex ideas into simple, elegant experiences.  
+
+🎯 I'm always **willing to learn**, experimenting with code like it’s a magic potion ✨  
+💻 Designing user-friendly interfaces that **spark joy** isn’t just a skill — it’s something I genuinely love doing. 💕
+
+</div>
+
+
+
 
 <div align="center">
 <hr/>
