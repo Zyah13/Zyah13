@@ -1,10 +1,10 @@
 ## 👩‍💻 ABOUT Me 🌸
 
 Hi, I'm Jieya! 🌷                                                                                                                                              
-A curious software developer, UI enthusiast, and a builder of community-driven digital projects.
+  A curious software developer, UI enthusiast, and a builder of community-driven digital projects.
 I enjoy crafting fun and useful web applications, often infused with a bit of creativity and flair. My love for technology drives me to explore smarter solutions and turn complex ideas into simple, elegant experiences.🎯💜
 
-I'm always willing to learn and experimenting with code like it’s a magic potion, and embracing every opportunity to grow. Designing user-friendly interfaces that spark joy is not just a skill — it’s something I truly love doing. 💻✨
+  I'm always willing to learn and experimenting with code like it’s a magic potion, and embracing every opportunity to grow. Designing user-friendly interfaces that spark joy is not just a skill — it’s something I truly love doing. 💻✨
 
 
 
