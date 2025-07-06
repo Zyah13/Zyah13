@@ -12,8 +12,7 @@ A curious software developer, UI enthusiast, and community-driven project builde
 🎨 I enjoy designing user-friendly interfaces that spark joy 
 
 <div align="center">
-## 💻 Tech Stack 💡
-
+# 💻 Tech Stack 💡
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -50,10 +49,8 @@ A curious software developer, UI enthusiast, and community-driven project builde
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 </div>
 
-
-<div align="center">
 ## 🌐 Connect with Me 🤝
-
+<div align="center">
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/6itterc4ndy)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Jieya)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eyah_l13)
