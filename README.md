@@ -31,7 +31,7 @@ A curious software developer, UI enthusiast, and community-driven project builde
   <!-- Streak and Top Languages Side by Side -->
    <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
     <img src="https://nirzak-streak-stats.vercel.app/?user=Zyah13&theme=shades-of-purple&hide_border=false"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyah13&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="400px"  style="padding: 10px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyah13&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
   </div>
 
 </div>
@@ -39,7 +39,7 @@ A curious software developer, UI enthusiast, and community-driven project builde
 
 
 <div align="center">
-  
+<br/><br/> 
 ![](https://github-profile-trophy.vercel.app/?username=Zyah13&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
