@@ -12,6 +12,34 @@ A curious software developer, UI enthusiast, and community-driven project builde
 🎨 I enjoy designing user-friendly interfaces that spark joy 
 
 
+
+
+
+<div align="center">
+<hr/>
+  <!-- Main GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Zyah13&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true" />
+
+  <!-- Streak and Top Languages Side by Side with Equal Height -->
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: stretch; padding: 10px 0;">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Zyah13&theme=shades-of-purple&hide_border=false" style="height: 200px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyah13&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="height: 200px;" />
+  </div>
+
+</div>
+
+
+
+
+<div align="center">
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Zyah13&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+
+</div>
+
+
 <div align="center">
 
 # 💻 Tech Stack 💡
@@ -69,33 +97,6 @@ A curious software developer, UI enthusiast, and community-driven project builde
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jieyalingao13@gmail.com)
 
 </div>
-
-
-
-<div align="center">
-
-  <!-- Main GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Zyah13&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true" />
-
-  <!-- Streak and Top Languages Side by Side with Equal Height -->
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: stretch; padding: 10px 0;">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Zyah13&theme=shades-of-purple&hide_border=false" style="height: 200px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyah13&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="height: 200px;" />
-  </div>
-
-</div>
-
-
-
-
-<div align="center">
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Zyah13&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-
-</div>
-
 
 
 <div align="center">
