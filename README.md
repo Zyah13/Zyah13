@@ -11,8 +11,8 @@ A curious software developer, UI enthusiast, and community-driven project builde
 
 🎨 I enjoy designing user-friendly interfaces that spark joy 
 
-<div align="center">
 # 💻 Tech Stack 💡
+<div align="center">
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
