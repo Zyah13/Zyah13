@@ -29,9 +29,10 @@ A curious software developer, UI enthusiast, and community-driven project builde
   <img src="https://github-readme-stats.vercel.app/api?username=Zyah13&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true" />
 
   <!-- Streak and Top Languages Side by Side -->
-  
- <img src="https://nirzak-streak-stats.vercel.app/?user=Zyah13&theme=shades-of-purple&hide_border=false" height="200px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyah13&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="400px"/>
+   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Zyah13&theme=shades-of-purple&hide_border=false" height="200px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyah13&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="400px"/>
+  </div>
 
 </div>
 
