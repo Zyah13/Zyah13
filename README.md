@@ -39,7 +39,7 @@ A curious software developer, UI enthusiast, and community-driven project builde
 
 
 <div align="center">
-  <hr style="height:1px; background-color:#ccc; border:none; width:80%;" />
+  <hr style="height:-60px; background-color:#ccc; border:none; />
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
 </div>
 
