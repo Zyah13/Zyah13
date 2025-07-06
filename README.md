@@ -1,4 +1,5 @@
-##🌸 Hi, I'm Jieya!  
+#👩‍💻 ABOUT 
+🌸 Hi, I'm Jieya!  
 A curious software developer, UI enthusiast, and community-driven project builder 💕
 
 💻 I build fun and useful web apps (sometimes with a little creative flair )  
