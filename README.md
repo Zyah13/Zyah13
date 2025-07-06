@@ -49,6 +49,9 @@ A curious software developer, UI enthusiast, and community-driven project builde
 
 
 <div align="center">
+
+  <br/><br/>
+
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
 </div>
 
