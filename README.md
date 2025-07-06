@@ -2,7 +2,8 @@
 
 <div align="left">
 
-Hi, I'm <strong>Jieya!</strong> 🌷  <br/>
+Hi, I'm <strong>Jieya!</strong> 🌷
+
 &nbsp;&nbsp;&nbsp;&nbsp;A curious software developer, UI enthusiast, and a builder of community-driven digital projects.  
 I enjoy crafting fun and useful web applications, often infused with a bit of creativity and flair.  
 My love for technology drives me to explore smarter solutions and turn complex ideas into simple, elegant experiences. 🎯💜  
