@@ -42,7 +42,7 @@ A curious software developer, UI enthusiast, and community-driven project builde
 
 
 <div align="center">
- <br/><br/>
+   
 # 💻 Tech Stack 💡
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
