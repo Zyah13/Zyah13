@@ -31,7 +31,13 @@ A curious software developer, UI enthusiast, and community-driven project builde
 
 
 
+<div align="center">
+
+## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=Zyah13&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
 
 
 <div align="center">
