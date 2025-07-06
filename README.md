@@ -99,7 +99,7 @@ A curious software developer, UI enthusiast, and community-driven project builde
 
 </div>
 
-
+---
 <div align="center">
 
   <br/><br/>
