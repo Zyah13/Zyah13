@@ -23,14 +23,19 @@ A curious software developer, UI enthusiast, and community-driven project builde
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/6itterc4ndy) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Jieya ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eyah_l13) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jieyalingao13@gmail.com)
 
 
-
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=Zyah13&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Zyah13&theme=shades-of-purple&hide_border=false" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyah13&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="200"/>
+
+  <!-- Main GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Zyah13&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true" />
+
+  <!-- Streak and Top Languages Side by Side -->
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Zyah13&theme=shades-of-purple&hide_border=false" height="200px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyah13&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="200px"/>
+  </div>
 
 </div>
+
 
 
 
