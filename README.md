@@ -17,6 +17,7 @@ A curious software developer, UI enthusiast, and community-driven project builde
 
 <div align="center">
 <hr/>
+   <br/><br/>
   <!-- Main GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Zyah13&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true" />
 
