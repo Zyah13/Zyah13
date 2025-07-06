@@ -2,9 +2,13 @@
 A curious software developer, UI enthusiast, and community-driven project builder 💡💕
 
 💻 I build fun and useful web apps (sometimes with a little creative flair )  
+
 🤖 I explore tech and turn smart ideas into simpler digital solutions 
+
 🎯 I'm always learning and improving my skills in development 
+
 🧪 I experiment with code like it’s a magic potion  
+
 🎨 I enjoy designing user-friendly interfaces that spark joy 
 
 ## 🌐 Socials:
