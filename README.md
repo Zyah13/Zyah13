@@ -28,13 +28,16 @@ A curious software developer, UI enthusiast, and community-driven project builde
   <!-- Main GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Zyah13&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true" />
 
-  <!-- Streak and Top Languages Side by Side -->
-   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Zyah13&theme=shades-of-purple&hide_border=false"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyah13&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  <br/><br/>
+
+  <!-- Streak and Top Languages Side by Side with Equal Height -->
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: stretch; padding: 10px 0;">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Zyah13&theme=shades-of-purple&hide_border=false" style="height: 200px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyah13&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="height: 200px;" />
   </div>
 
 </div>
+
 
 
 
