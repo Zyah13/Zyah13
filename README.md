@@ -82,31 +82,25 @@
 
 </div>
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 2rem;">
+<div align="center">
 
-  <!-- Left: Contact Section -->
-  <div>
-    <h3>🌐 Contact with Me 🤝</h3>
-    <a href="https://bsky.app/profile/6itterc4ndy">
-      <img src="https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF" />
-    </a>
-    <a href="https://facebook.com/Jieya">
-      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
-    </a>
-    <a href="https://instagram.com/eyah_l13">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
-    </a>
-    <a href="mailto:jieyalingao13@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-    </a>
-  </div>
+  <br/><br/>
 
-  <!-- Right: Quote -->
-  <div>
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
-  </div>
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
+</div>
+
+<div align="center">
+
+## 🌐 Contact with Me 🤝
+
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/6itterc4ndy)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Jieya)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eyah_l13)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jieyalingao13@gmail.com)
 
 </div>
+
+  
 
 
 
