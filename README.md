@@ -84,13 +84,6 @@
 
 <div align="center">
 
-  <br/><br/>
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
-</div>
-
-<div align="center">
-
 ## 🌐 Contact with Me 🤝
 
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/6itterc4ndy)
@@ -99,6 +92,15 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jieyalingao13@gmail.com)
 
 </div>
+
+
+<div align="center">
+
+  <br/><br/>
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
+</div>
+
 
   
 
