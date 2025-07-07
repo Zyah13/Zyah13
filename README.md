@@ -100,11 +100,11 @@
         <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
       </a>
     </td>
-
     <!-- Right Column: Quote -->
     <td align="center" valign="middle">
       <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
     </td>
+    
   </tr>
 </table>
 
