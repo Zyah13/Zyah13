@@ -82,7 +82,7 @@
 
 </div>
 
-<table align="center">
+<table align="center border="0"">
   <tr>
     <!-- Left Column: Contact Section -->
     <td border="0" align="center" valign="top">
