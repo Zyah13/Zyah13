@@ -85,7 +85,7 @@
 <table align="center">
   <tr>
     <!-- Left Column: Contact Section -->
-    <td align="center" valign="top">
+    <td border="0" align="center" valign="top">
       <h3>🌐 Contact with Me 🤝</h3>
       <a href="https://bsky.app/profile/6itterc4ndy">
         <img src="https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF" />
