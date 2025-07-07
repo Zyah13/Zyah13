@@ -34,7 +34,7 @@
   <br/><br/>
 
   <!-- Main GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Zyah13&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zyah13&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true" width="200" />
 
   <!-- Streak and Top Languages Side by Side -->
   <div>
