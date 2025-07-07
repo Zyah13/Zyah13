@@ -14,20 +14,6 @@
 </div>
 
 
-<div align="center">
-<hr/>
-   <br/><br/>
-  <!-- Main GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Zyah13&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true" />
-
-  <!-- Streak and Top Languages Side by Side with Equal Height -->
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: stretch; padding: 10px 0;">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Zyah13&theme=shades-of-purple&hide_border=false" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyah13&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="height: 200px;" />
-  </div>
-
-</div>
-
 
 <div align="center">
   <hr/>
@@ -39,7 +25,7 @@
   <!-- Streak and Top Languages Side by Side -->
   <div>
     <img src="https://nirzak-streak-stats.vercel.app/?user=Zyah13&theme=shades-of-purple&hide_border=false" width="400" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyah13&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="300" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyah13&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="350"  />
   </div>
 </div>
 
