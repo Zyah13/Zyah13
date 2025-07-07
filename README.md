@@ -84,7 +84,7 @@
 
 <div align="center">
 
-### 🌐 Contact with Me 🤝
+##🌐 Contact with Me 🤝
 
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/6itterc4ndy)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Jieya)
