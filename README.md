@@ -38,10 +38,11 @@
 
   <!-- Streak and Top Languages Side by Side -->
   <div>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Zyah13&theme=shades-of-purple&hide_border=false" width="300" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyah13&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="300" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Zyah13&theme=shades-of-purple&hide_border=false" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyah13&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="200" />
   </div>
 </div>
+
 
 
 
