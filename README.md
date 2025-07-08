@@ -32,8 +32,6 @@
 
 
 
-
-
 <div align="center">
 
 <br/><br/>
@@ -41,6 +39,8 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Zyah13&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 <br/><br/><br/>
 </div>
+
+
 
 
 <div align="center">
@@ -85,6 +85,8 @@
 
 </div>
 
+
+
 <div align="center">
 
 ## 🌐 Contact with Me 🤝
@@ -97,12 +99,14 @@
 </div>
 
 
+
 <div align="center">
 
   <br/><br/>
 
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
 </div>
+
 
 <!-- Snake Animation -->
 <div align="center">
