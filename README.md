@@ -105,12 +105,13 @@
 </div>
 
 <!-- Snake Animation -->
-<div align="center">'
+<div align="center">
  <br/>
 
-  ![snake gif](https://github.com/Zyah13/Zyah13/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/Zyah13/Zyah13/blob/output/github-snake-dark.svg?color_snake=#00ff00)
   
 </div>
+
 
 
 
