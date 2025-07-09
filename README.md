@@ -1,3 +1,5 @@
+<!-- Introduction About Me -->
+
 ## 👩‍💻 ABOUT Me 🌸
 
 <div align="left">
@@ -115,7 +117,6 @@
   ![snake gif](https://github.com/Zyah13/Zyah13/blob/output/github-snake-dark.svg)
   
 </div>
-
 
 
 
