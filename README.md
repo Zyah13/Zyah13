@@ -23,12 +23,21 @@
 
   <!-- Main GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Zyah13&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true" width="400" />
-
   <!-- Streak and Top Languages Side by Side -->
-  <div>
+<div>
     <img src="https://nirzak-streak-stats.vercel.app/?user=Zyah13&theme=shades-of-purple&hide_border=false" width="400" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyah13&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="285"  />
   </div>
+</div>
+
+
+
+<div align="center">
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Zyah13&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+<br/><br/><br/>
 </div>
 
 
