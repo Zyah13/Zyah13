@@ -13,13 +13,6 @@
 
 
 
-<div align="center">
-
-  <br/><br/>
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
-</div>
-
 <!-- Snake Animation -->
 <div align="center">
  <br/>
