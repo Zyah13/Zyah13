@@ -99,6 +99,15 @@
 
 
 
+<div align="center">
+
+  <br/><br/>
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
+</div>
+
+
+
 <!-- Visit Counter -->
 <div align="center">
   
