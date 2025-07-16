@@ -4,13 +4,6 @@
 
 
 
-<div align="center">
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Zyah13&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-<br/><br/><br/>
-</div>
 
 
 <div align="center">
