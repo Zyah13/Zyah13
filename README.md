@@ -1,17 +1,16 @@
 <div align="center">
   
-  <!-- Gradient Text Header -->
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=70&duration=3000&pause=1000&color=9D4EDD&background=FFFFFF00&lines=✨+Jieya+Lingao-Lingao+✨" />
-  </h1>
+  <!-- Wave Animation Header -->
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jieya+Lingao-Lingao&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=40" />
   
-  <h3 align="center">💜 Software Developer | UI Enthusiast | Community Builder 💜</h3>
-  
-  <!-- Animated divider -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header&reversal=false&animation=blink" />
+  <!-- Icons Row -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/💻-Software%20Developer-9D4EDD?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🎨-UI%20Enthusiast-9D4EDD?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🚀-Community%20Builder-9D4EDD?style=for-the-badge" />
+  </p>
   
 </div>
-
 <!-- Introduction About Me -->
 ## 👩‍💻 ABOUT Me 🌸
 
