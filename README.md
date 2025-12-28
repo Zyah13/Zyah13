@@ -1,17 +1,16 @@
 <div align="center">
   
-  <!-- Purple Gradient Banner with Gold/White Accents -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16&height=200&section=header&text=Jieya+Lingao-Lingao&fontSize=20&fontColor=FFFF&animation=twinkling&fontAlignY=40&/>
+  <!-- Purple Gradient Waving Banner with White Text -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jieya+Lingao-Lingao&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&descAlignY=70&descColor=FFFFFF" />
   
-  <!-- Gold Accent Line -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=4&section=header&reversal=false&animation=blink" />
+  <!-- White Divider Line -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=3&section=header&reversal=false&animation=blink" />
   
-  <!-- Typing Animation with Purple/Gold Theme -->
+  <!-- Typing Animation with Purple/White Theme -->
   <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=600&height=60&duration=4000&pause=1000&color=9D4EDD&background=FFD70000&lines=💜+Software+Developer+💻;🎨+UI+Enthusiast+✨;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=600&height=60&duration=4000&pause=1000&color=FFFFFF&background=9D4EDD00&lines=💜+Software+Developer+💻;🎨+UI+Enthusiast+✨;🚀+Community+Builder+🌟" />
   </h3>
-  
-</div>
+
 
 <!-- Introduction About Me -->
 ## 👩‍💻 ABOUT Me 🌸
