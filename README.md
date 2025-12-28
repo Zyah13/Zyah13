@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Banner or Profile Image -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jieya%20Lingao-Lingao&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=Jieya%20Lingaolingao&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=32" />
   
 </div>
 
