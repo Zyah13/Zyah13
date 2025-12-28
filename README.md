@@ -22,7 +22,7 @@
 
   
  <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=3&section=header" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=2&section=header" />
   </div>
 
 
