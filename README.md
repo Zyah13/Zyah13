@@ -1,11 +1,24 @@
 <div align="center">
   
-  <!-- Banner or Profile Image -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=Jieya%20Lingaolingao&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=32" />
+  <!-- Split Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,11,20&height=150&section=header&reversal=false&rotation=0&text=Jieya+Lingao-Lingao&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=50" />
   
-</div>
-
-<div > 
+  <h3 align="center">
+    <em>"Crafting fun and useful web applications with creativity and flair"</em> ✨
+  </h3>
+  
+  <!-- Social Links -->
+  <p align="center">
+    <a href="https://www.facebook.com/jieya.lingaolingao" target="_blank">
+      <img width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+    </a>
+    <a href="https://instagram.com/eyah_l13" target="_blank">
+      <img width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    </a>
+    <a href="mailto:jieyalingao13@gmail.com">
+      <img width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+    </a>
+  </p>
   
 </div>
 
