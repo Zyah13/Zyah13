@@ -1,9 +1,8 @@
 <div align="center">
   <!-- Purple Gradient Waving Banner with White Text -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=twinkling&fontAlignY=40&descAlignY=70&descColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=twinkling&fontAlignY=20&descAlignY=50&descColor=FFFFFF" />
   
 </div>
-
 
 <!-- Introduction About Me -->
 <div align="left">
