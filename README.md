@@ -20,30 +20,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💜Designing user-friendly interfaces that spark joy is not just a skill — it’s something I truly love doing. 
 </div>
 
-
-<div align="center">
   
-  <!-- Main GitHub Stats -->
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zyah13&theme=shades-of-purple" width="400" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyah13&theme=shades-of-purple&layout=compact" width="285" />
-  </div>
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Zyah13&theme=shades-of-purple" width="400" />
-  
-</div>
-
-<div align="center">
-  
-  <br/><br/>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=Zyah13&theme=radical" />
-  
-  <br/><br/><br/>
-  
-</div>
 
 
 
