@@ -1,6 +1,12 @@
 
 <!-- Introduction About Me -->
 
+<!-- Banner/Header -->
+![Banner](https://via.placeholder.com/1000x150/2d4f58/ffffff?text=) <!-- You can replace with a custom wave image -->
+
+# Hey 👋, It’s Jieya! 🌸
+
+
 ## 👩‍💻 ABOUT Me 🌸
 
 <div align="left">
