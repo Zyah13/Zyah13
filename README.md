@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Purple Gradient Banner with Gold/White Accents -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16&height=200&section=header&text=Jieya+Lingao-Lingao&fontSize=50&fontColor=FFFF&animation=twinkling&fontAlignY=40&desc=Software+Developer+%7C+UI+Enthusiast+%7C+Community+Builder&descAlignY=70&descColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16&height=200&section=header&text=Jieya+Lingao-Lingao&fontSize=20&fontColor=FFFF&animation=twinkling&fontAlignY=40&/>
   
   <!-- Gold Accent Line -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=4&section=header&reversal=false&animation=blink" />
