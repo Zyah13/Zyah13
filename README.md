@@ -1,16 +1,16 @@
 <div align="center">
   
-  <!-- Wave Animation Header -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jieya+Lingao-Lingao&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=40" />
+  <h1 align="center">🌸 Jieya Lingao-Lingao 🌸</h1>
   
-  <!-- Icons Row -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/💻-Software%20Developer-9D4EDD?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🎨-UI%20Enthusiast-9D4EDD?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🚀-Community%20Builder-9D4EDD?style=for-the-badge" />
-  </p>
+  <h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=50&duration=4000&pause=1000&color=9D4EDD&lines=Software+Developer+💻;UI+Enthusiast+🎨;Community+Builder+🚀" />
+  </h3>
+  
+  <!-- Decorative line -->
+  <img src="https://i.imgur.com/waxVImH.png" width="100%" height="2px" />
   
 </div>
+
 <!-- Introduction About Me -->
 ## 👩‍💻 ABOUT Me 🌸
 
