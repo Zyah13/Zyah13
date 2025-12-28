@@ -86,7 +86,7 @@
 ## 🌐 Contact with Me 🤝
 
   [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/6itterc4ndy)
-  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Jieya)
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/jieya.lingaolingao)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eyah_l13)
   [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jieyalingao13@gmail.com)
 
