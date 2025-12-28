@@ -1,28 +1,15 @@
 <div align="center">
   
   <!-- Purple Gradient Banner with Gold/White Accents -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16&height=200&section=header&text=Jieya+Lingao-Lingao&fontSize=50&fontColor=FFD700&animation=twinkling&fontAlignY=40&desc=Software+Developer+%7C+UI+Enthusiast+%7C+Community+Builder&descAlignY=70&descColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16&height=200&section=header&text=Jieya+Lingao-Lingao&fontSize=50&fontColor=FFFF&animation=twinkling&fontAlignY=40&desc=Software+Developer+%7C+UI+Enthusiast+%7C+Community+Builder&descAlignY=70&descColor=FFFFFF" />
   
   <!-- Gold Accent Line -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=4&section=header&reversal=false&animation=blink" />
   
   <!-- Typing Animation with Purple/Gold Theme -->
   <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=600&height=60&duration=4000&pause=1000&color=9D4EDD&background=FFD70000&lines=💜+Software+Developer+💻;🎨+UI+Enthusiast+✨;🚀+Community+Builder+🌟" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=600&height=60&duration=4000&pause=1000&color=9D4EDD&background=FFD70000&lines=💜+Software+Developer+💻;🎨+UI+Enthusiast+✨;" />
   </h3>
-  
-  <!-- Social Badges with Purple/Gold Theme -->
-  <p align="center">
-    <a href="https://www.facebook.com/jieya.lingaolingao" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=9D4EDD" />
-    </a>
-    <a href="https://instagram.com/eyah_l13" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=9D4EDD" />
-    </a>
-    <a href="mailto:jieyalingao13@gmail.com">
-      <img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=9D4EDD" />
-    </a>
-  </p>
   
 </div>
 
