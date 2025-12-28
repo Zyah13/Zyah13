@@ -2,7 +2,6 @@
 ![Wave Banner](https://via.placeholder.com/1000x150/2d4f58/ffffff?text=) <!-- Replace with your custom banner image -->
 
 <!-- Introduction About Me -->
-
 ## 👩‍💻 ABOUT Me 🌸
 
 <div align="left">
