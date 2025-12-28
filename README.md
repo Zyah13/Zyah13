@@ -22,27 +22,32 @@
 
 
 <div align="center">
-  <!-- White Divider Line -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=3&section=header&reversal=false&animation=blink" />
   
-  <br/><br/>
   <!-- Main GitHub Stats -->
   <div>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Zyah13&theme=shades-of-purple&hide_border=false" width="400" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyah13&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="285"  />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Zyah13&theme=shades-of-purple&hide_border=false" width="400" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyah13&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="285" alt="Top Languages" />
   </div>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Zyah13&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true" width="400" />
-  <!-- Streak and Top Languages Side by Side -->
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Zyah13&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true" width="400" alt="GitHub Stats" />
   
 </div>
 
-
 <div align="center">
-
+  
   <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Zyah13&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+  
+  <!-- White Divider Line -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=3&section=header&reversal=false&animation=blink" alt="Divider" />
+  
+  <br/><br/>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Zyah13&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  
   <br/><br/><br/>
+  
 </div>
 
 
