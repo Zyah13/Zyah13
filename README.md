@@ -21,6 +21,7 @@
 </div>
 
 
+
 <div align="center">
   
   <!-- Main GitHub Stats -->
@@ -39,8 +40,9 @@
   
   <br/><br/>
   
-  <!-- White Divider Line -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=3&section=header&reversal=false&animation=blink" alt="Divider" />
+  <!-- Simple SVG Divider -->
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" style="display: none;" />
+  <hr style="width: 50%; border: 1px solid #FFFFFF;" />
   
   <br/><br/>
   
@@ -49,6 +51,7 @@
   <br/><br/><br/>
   
 </div>
+
 
 
 
