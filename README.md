@@ -5,7 +5,7 @@
   
   <!-- Typing Animation with Purple/White Theme -->
   <h3 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=600&height=60&duration=4000&pause=1000&color=FFFFFF&background=9D4EDD00&lines=+Hi,+I'm+Jieya!+🌷+" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=600&height=60&duration=4000&pause=1000&color=FFFFFF&background=9D4EDD00&lines=+Hi,+I'm+Jieya!🌷+" />
   </h3>
 
 
