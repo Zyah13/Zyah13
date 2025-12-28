@@ -6,8 +6,6 @@
 
 
 <!-- Introduction About Me -->
-## 👩‍💻 ABOUT Me 🌸
-
 <div align="left">
   <!-- Typing Animation with Purple/White Theme -->
   <h5 >
