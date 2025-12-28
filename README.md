@@ -28,7 +28,7 @@
 
 <div align="center">
    
-## 💻 Tech Stack 💡
+## Tech Stack 💻 
 
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -72,7 +72,7 @@
 
 <div align="center">
 
-## 🌐 Contact with Me 🤝
+### Contact with Me 📞
 
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/jieya.lingaolingao)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eyah_l13)
