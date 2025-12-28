@@ -10,9 +10,9 @@
 
 <div align="left">
   <!-- Typing Animation with Purple/White Theme -->
-  <h3 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=600&height=60&duration=4000&pause=1000&color=FFFFFF&background=9D4EDD00&lines=+Hi,+I'm+Jieya!🌷+" />
-  </h3>
+  <h5 >
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&left=true&vCenter=true&width=600&height=60&duration=4000&pause=1000&color=FFFFFF&background=9D4EDD00&lines=+Hi,+I'm+Jieya!🌷+" />
+  </h5>
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💜 A curious software developer, UI enthusiast, and a builder of community-driven digital projects.  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💜I enjoy crafting fun and useful web applications, often infused with a bit of creativity and flair.  
