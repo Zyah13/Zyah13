@@ -1,15 +1,15 @@
 <div align="center">
+  <!-- Purple Gradient Waving Banner with White Text -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=twinkling&fontAlignY=20&descAlignY=50&descColor=FFFFFF" />
   
 </div>
 
 <!-- Introduction About Me -->
 <div align="left">
-  <!-- Purple Gradient Waving Banner with White Text -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=twinkling&fontAlignY=20&descAlignY=50&descColor=FFFFFF" />
   
   <!-- Typing Animation with Purple/White Theme -->
   <h5 >
-     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&left=true&vCenter=true&width=600&height=60&duration=4000&pause=1000&color=FFFFFF&background=9D4EDD00&lines=+Hi,+I'm+Jieya+Lingaolingao!🌷;This+is+about+me💜" />
+     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&left=true&vCenter=true&width=600&height=60&duration=4000&pause=1000&color=FFFFFF&background=9D4EDD00&lines=+Hi,+I'm+Jieya+Lingaolingao!🌷;This+is+About+Me💜" />
   </h5>
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💜 A curious software developer, UI enthusiast, and a builder of community-driven digital projects.  
