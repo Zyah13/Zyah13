@@ -22,28 +22,6 @@
 
 
 
-<div align="center">
-  
-  <!-- Main GitHub Stats -->
-  <div>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Zyah13&theme=shades-of-purple&hide_border=false" width="400" alt="GitHub Streak Stats" />
-    
-  </div>
-  
-</div>
-
-<div align="center">
-  
-  <!-- Simple SVG Divider -->
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" style="display: none;" />
-  <hr style="width: 50%; border: 1px solid #FFFFFF;" />
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=Zyah13&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-  
-  <br/><br/><br/>
-  
-</div>
-
 
 
 
