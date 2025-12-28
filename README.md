@@ -3,9 +3,6 @@
   <!-- Purple Gradient Waving Banner with White Text -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=twinkling&fontAlignY=40&descAlignY=70&descColor=FFFFFF" />
   
-  <!-- White Divider Line -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=3&section=header&reversal=false&animation=blink" />
-  
   <!-- Typing Animation with Purple/White Theme -->
   <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=600&height=60&duration=4000&pause=1000&color=FFFFFF&background=9D4EDD00&lines=💜+Software+Developer+💻;🎨+UI+Enthusiast+✨;🚀+Community+Builder+🌟" />
@@ -28,7 +25,9 @@
 
 
 <div align="center">
-  <hr/>
+  <!-- White Divider Line -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=3&section=header&reversal=false&animation=blink" />
+  
   <br/><br/>
   <!-- Main GitHub Stats -->
   <div>
