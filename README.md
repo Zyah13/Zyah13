@@ -1,3 +1,30 @@
+<div align="center">
+  
+  <!-- Animated Typing SVG -->
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jieya!+🌸;+A+Software+Developer+💻;+UI+Enthusiast+🎨;+Community+Builder+🚀" />
+  
+  <!-- Banner or Profile Image -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jieya%20Lingao-Lingao&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+  
+  <!-- Social Badges -->
+  <div>
+    <a href="https://www.facebook.com/jieya.lingaolingao" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+    </a>
+    <a href="https://instagram.com/eyah_l13" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="mailto:jieyalingao13@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </div>
+  
+</div>
+
+<div > 
+  
+</div>
+
 <!-- Introduction About Me -->
 ## 👩‍💻 ABOUT Me 🌸
 
