@@ -17,6 +17,11 @@
   <hr/>
   <br/><br/>
   <!-- Main GitHub Stats -->
+  <div>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Zyah13&theme=shades-of-purple&hide_border=false" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyah13&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="285"  />
+  </div>
+  
   <img src="https://github-readme-stats.vercel.app/api?username=Zyah13&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true" width="400" />
   <!-- Streak and Top Languages Side by Side -->
   
