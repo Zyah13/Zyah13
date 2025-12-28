@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Purple Gradient Waving Banner with White Text -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jieya+Lingao-Lingao&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&descAlignY=70&descColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jieya+Lingaolingao&fontSize=20&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&descAlignY=70&descColor=FFFFFF" />
   
   <!-- White Divider Line -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=3&section=header&reversal=false&animation=blink" />
