@@ -79,6 +79,11 @@
 
 </div>
 
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Zyah13&theme=shadow_blue&hide_border=false" width="57%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyah13&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="41%" />
+</p>
+
 
 <div align="center">
 
