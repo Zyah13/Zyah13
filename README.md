@@ -67,6 +67,7 @@
 
 </div>
 
+<div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=Zyah13&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Zyah13&theme=dark&hide_border=false)<br/>
@@ -75,6 +76,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=Zyah13&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ![](https://github-contributor-stats.vercel.app/api?username=Zyah13&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
 
 
 <div align="center">
